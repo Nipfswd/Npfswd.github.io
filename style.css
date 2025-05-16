@@ -15,3 +15,16 @@ button {
     font-size: 16px;
     cursor: pointer;
 }
+
+.dark-mode {
+    background-color: #1e1e1e;
+    color: white;
+}
+
+#loader {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background: #000;
+    z-index: 9999;
+}
